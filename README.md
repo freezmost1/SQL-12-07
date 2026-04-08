@@ -47,5 +47,4 @@ Master + несколько slave:
 | location          |    | location          |    | location          |
 | manager_id        |    | manager_id        |    | manager_id        |
 +-------------------+    +-------------------+    +-------------------+
-
 '''
